@@ -1,0 +1,23 @@
+{
+  "name": "fewer-lambdas",
+  "version": "0.0.0",
+  "description": "yet another fewer lambdas",
+  "main": "fewerLambdas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacki/fewer-lambdas.git"
+  },
+  "keywords": [
+    "fewer",
+    "lambdas"
+  ],
+  "author": "Blacki Migliozzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blacki/fewer-lambdas/issues"
+  },
+  "homepage": "https://github.com/blacki/fewer-lambdas#readme"
+}
