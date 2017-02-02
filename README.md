@@ -4,11 +4,11 @@
 
 This steals heavily from the folowing:
 
-    [phrogz's fewer lambdas](http://phrogz.net/fewer-lambdas-in-d3-js)
+[phrogz's fewer lambdas](http://phrogz.net/fewer-lambdas-in-d3-js)
 
-    [roadtolarissa's even fewer lambdas](http://roadtolarissa.com/blog/2014/06/23/even-fewer-lamdas-with-d3/)
+[roadtolarissa's even fewer lambdas](http://roadtolarissa.com/blog/2014/06/23/even-fewer-lamdas-with-d3/)
 
-    [d3-jetpacks's implementation](https://github.com/gka/d3-jetpack#ƒ-or-d3f)
+[d3-jetpacks's implementation](https://github.com/gka/d3-jetpack#ƒ-or-d3f)
 
 ## ƒ usage
 
