@@ -1,6 +1,6 @@
 {
   "name": "fewer-lambdas",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "yet another fewer lambdas",
   "main": "fewerLambdas.js",
   "scripts": {
