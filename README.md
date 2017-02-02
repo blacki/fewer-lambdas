@@ -23,7 +23,7 @@ Note the function name `ƒ` is a legal [JavaScript identifier](http://stackoverf
 This lets you replace ``function(d){ return ... }`` ECMAScript 5 lambda function syntax with the shorter easy to use `ƒ(...)` function.
 
 
-## Examples
+## ƒ Examples
 
 #### Identity function
 
@@ -88,8 +88,8 @@ data.map(ƒ('value',parseInt))
 
 #### Fat arrow
 
-Combine this with Es6 fat arrow functions and things get even more shorter
+Combine this with Es6 fat arrow functions and things get even shorter
 
 ```js
-data.map(ƒ('value', Math.abs, JSON.stringify, d => d.split('.'), d => d.join(''), d => +d))
+data.map(ƒ('value', JSON.stringify, d => d.split('.'), d => d.join(''), d => +d))
 ```

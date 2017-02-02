@@ -1,4 +1,4 @@
-var f = function () {
+function fewerLambdas () {
   var functions = arguments
 
   // convert all string arguments into field accessors
@@ -20,4 +20,4 @@ var f = function () {
   }
 }
 
-module.exports = f
+module.exports = fewerLambdas
